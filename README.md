@@ -29,3 +29,14 @@ This project implements a decentralized application (DAPP) on a layer-2 blockcha
 ```bash
 git clone https://github.com/your-username/CS765-DAPP-Project.git
 cd CS765-DAPP-Project
+
+### Usage
+Register Users: Use the registerUser function to register users. Provide user IDs and names as arguments.
+
+Create Joint Accounts: Utilize the createAcc function to create joint accounts between users. Specify user IDs and initial balances.
+
+Send Amount: Execute the sendAmount function to transfer amounts between users, even without a joint account. Ensure sufficient balances.
+
+Close Account: Terminate accounts between users using the closeAccount function. Provide the relevant user IDs.
+
+Run the DAPP: Use the provided Python script (client.py) or another preferred language for interacting with the smart contract and performing transactions.
