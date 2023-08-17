@@ -29,7 +29,7 @@ This project implements a decentralized application (DAPP) on a layer-2 blockcha
 ```bash
 git clone https://github.com/your-username/CS765-DAPP-Project.git
 cd CS765-DAPP-Project
-
+## Usage
 ### Usage
 Register Users: Use the registerUser function to register users. Provide user IDs and names as arguments.
 
